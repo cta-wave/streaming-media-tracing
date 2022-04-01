@@ -1,4 +1,9 @@
 # Request Tracing
+Co-chairs:
+
+- Chris Lemmons  - Comcast<br>
+- Josh Evans - Datazoom
+
 Editors:
 
 - Will Law - Akamai<br>
